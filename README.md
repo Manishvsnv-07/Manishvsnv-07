@@ -2,9 +2,9 @@
 
 # Hi there, I'm Manish 👋
 
-### Full-Stack Developer | Web3 Builder | Future Data Scientist 🚀
+### Full-Stack Developer | Web3 Builder | Aspiring AI Engineer 🤖
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00C9FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+%F0%9F%92%BB;Web3+%2F+Solana+Builder+%E2%9A%A1;Transitioning+into+Data+Science+%F0%9F%93%8A;ML+%2F+Deep+Learning+%E2%80%94+Coming+Soon+%F0%9F%A4%96" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00C9FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+%F0%9F%92%BB;Web3+%2F+Solana+Builder+%E2%9A%A1;Transitioning+into+AI+Engineering+%F0%9F%A4%96;Building+My+Own+Startup+%F0%9F%9A%80" alt="Typing SVG" />
 
 </div>
 
@@ -15,17 +15,17 @@
 ```yaml
 name: Manish
 role: Full-Stack Developer
-education: B.Tech CSE @ Geetanjali Institute of Technical Studies (GITS), Udaipur — RTU
-currently_building: ChatWeb — Real-time chat app (Next.js + Express + Socket.IO)
-exploring: Web3 / Solana, SocialFi
-next_goal: Data Science & Machine Learning
+education: B.Tech CSE (1st Year) @ Geetanjali Institute of Technical Studies (GITS), Udaipur — RTU
+currently_building: A manga platform startup for creators & readers
+learning: AI Engineering (Python, ML fundamentals, LLM tooling)
+background: Self-taught, shipped multiple full-stack projects solo
 ```
 
-- 🔭 I'm currently building **ChatWeb**, a real-time chat application using Next.js, Express, MongoDB & Socket.IO
-- 🌱 I'm currently learning **Machine Learning, TensorFlow & Deep Learning**
-- 🏆 Built **Connector**, a decentralized SocialFi platform on Solana, for the Colosseum Frontier Hackathon
-- 💬 Ask me about **MERN stack, Next.js, or Web3 (Solana)**
-- 📈 Long-term goal: transition from full-stack development into **Data Science / AI**
+- 🔭 I'm currently building **a manga platform startup** for creators and readers, using my full-stack skills
+- 🌱 I'm currently learning **Python for Data Science (Pandas, Matplotlib) → AI Engineering fundamentals**
+- 🏆 Built **Connector**, a decentralized SocialFi platform on Solana, in 35 days for the Colosseum Frontier Hackathon
+- 💬 Ask me about **MERN stack, Next.js, or Solana/Web3 development**
+- 📈 Long-term goal: become an **AI Engineer** while running my own startup on the side
 
 ---
 
@@ -51,16 +51,13 @@ next_goal: Data Science & Machine Learning
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
 </p>
 
-**Data Science (Current + Learning)**
+**AI / Data (Currently Learning)**
 
 <p>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
 <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white" />
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-<img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-<img src="https://img.shields.io/badge/Deep_Learning-grey?style=for-the-badge&logo=pytorch&logoColor=white" />
 </p>
 
 **Web3**
@@ -68,6 +65,7 @@ next_goal: Data Science & Machine Learning
 <p>
 <img src="https://img.shields.io/badge/Solana-9945FF?style=for-the-badge&logo=solana&logoColor=white" />
 <img src="https://img.shields.io/badge/Metaplex-14F195?style=for-the-badge&logo=solana&logoColor=black" />
+<img src="https://img.shields.io/badge/IPFS-65C2CB?style=for-the-badge&logo=ipfs&logoColor=white" />
 </p>
 
 **Tools & Platforms**
@@ -76,22 +74,23 @@ next_goal: Data Science & Machine Learning
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+<img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white" />
 <img src="https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white" />
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
 </p>
 
 ---
 
-### 🎯 Roadmap to Data Scientist
+### 🎯 Roadmap to AI Engineer
 
 ```
 ✅ Full-Stack Web Development (MERN + Next.js)
-✅ Python, Pandas, Matplotlib (Data Analysis Basics)
-🔄 Machine Learning Fundamentals       ← in progress
-⬜ TensorFlow / PyTorch
-⬜ Deep Learning & Neural Networks
-⬜ Real-world ML Projects & Kaggle
-⬜ Data Scientist 🎓
+✅ Web3 Development (Solana, Metaplex, Wallet Auth)
+🔄 Python for Data Science (Pandas, Matplotlib)   ← in progress
+⬜ ML Fundamentals & Core Math
+⬜ LLM Tooling, APIs & Prompt Engineering
+⬜ Building AI-powered Applications
+⬜ AI Engineer 🎓
 ```
 
 ---
@@ -108,10 +107,6 @@ next_goal: Data Science & Machine Learning
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Manishvsnv-07&theme=tokyonight&hide_border=true&card_width=0" alt="trophy" />
-</p>
-
-<p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Manishvsnv-07&theme=tokyo-night&hide_border=true" alt="Activity Graph"/>
 </p>
 
@@ -124,17 +119,17 @@ next_goal: Data Science & Machine Learning
 <td width="50%">
 
 **🔗 Connector**
-SocialFi platform built on Solana — Phantom wallet integration, SOL tipping, NFT minting via Metaplex, and short video feed. Built for the Colosseum Frontier Hackathon.
+A decentralized SocialFi platform built on Solana — Phantom wallet auth, peer-to-peer SOL tipping, NFT minting via Metaplex/Pinata/IPFS, and a short video feed (VClips). Built in 35 days for the Colosseum Frontier Hackathon, deployed on Railway.
 
-`Next.js` `Solana` `Metaplex` `MongoDB`
+`Next.js` `Solana` `Metaplex` `MongoDB` `IPFS`
 
 </td>
 <td width="50%">
 
 **💬 ChatWeb**
-Real-time chat application with room-based messaging, persistent auth, and live socket connections.
+Fully deployed real-time chat app with Socket.IO messaging, skeleton loaders, unread badges, auto-scroll, and a dark zinc UI with animated gradients. Frontend on Vercel, backend on Render, MongoDB Atlas.
 
-`Next.js` `Express` `Socket.IO` `MongoDB` `Zustand`
+`Next.js` `Express` `Socket.IO` `MongoDB Atlas`
 
 </td>
 </tr>
@@ -142,12 +137,19 @@ Real-time chat application with room-based messaging, persistent auth, and live 
 <td width="50%">
 
 **📱 PostNow**
-Social media app with Cloudinary uploads, follow/unfollow system, comments with replies, and tag-based recommendations.
+Social media app with Cloudinary media uploads, infinite pagination, React Query caching, and Next.js Image optimization.
 
-`Node.js` `Express` `MongoDB` `Cloudinary`
+`Next.js` `Express` `MongoDB` `Cloudinary` `React Query`
 
 </td>
-<td width="50%"></td>
+<td width="50%">
+
+**📚 Manga Startup** *(in progress)*
+A platform for manga creators and readers — currently in planning/build phase, applying full-stack experience to a product built from the ground up.
+
+`Next.js` `Full-Stack` `In Progress`
+
+</td>
 </tr>
 </table>
 
@@ -162,7 +164,7 @@ Social media app with Cloudinary uploads, follow/unfollow system, comments with 
 
 <div align="center">
 
-⭐️ *From full-stack development to data science — building one project at a time.*
+⭐️ *From full-stack development to AI engineering — building one project at a time.*
 
 <img src="https://komarev.com/ghpvc/?username=Manishvsnv-07&style=for-the-badge&color=blueviolet" alt="Profile views"/>
 
